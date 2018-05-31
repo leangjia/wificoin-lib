@@ -4685,6 +4685,8 @@ addNetwork({
   port: 8666,
   dnsSeeds: [
     'wifidog.kunteng.org',
+    'seeds.wificoin.talkblock.org',
+    'wfc.wificoin.club',
     'emqtt.kunteng.org'
   ]
 });
