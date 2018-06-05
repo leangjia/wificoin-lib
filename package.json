@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wificoin-project/wificore-lib.git"
+    "url": "https://github.com/wificoin-project/wificoin-lib.git"
   },
   "browser": {
     "request": "browser-request"
