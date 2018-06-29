@@ -54086,7 +54086,7 @@ bitcore.versionGuard = function(version) {
     throw new Error(message);
   }
 };
-bitcore.versionGuard(global._bitcore);
+//bitcore.versionGuard(global._bitcore);
 global._bitcore = bitcore.version;
 
 // crypto
